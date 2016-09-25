@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7B5F57A3-59D5-6697-E703-1B9C98948E5C}") = "Daredevil", "Assembly-CSharp.csproj", "{EF561EE8-6051-C99C-703E-3304E51952B0}"
+EndProject
+Project("{7B5F57A3-59D5-6697-E703-1B9C98948E5C}") = "Daredevil", "Assembly-CSharp-Editor.csproj", "{DE266A3D-F324-63DA-530B-6013DBD6BFD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF561EE8-6051-C99C-703E-3304E51952B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF561EE8-6051-C99C-703E-3304E51952B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF561EE8-6051-C99C-703E-3304E51952B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF561EE8-6051-C99C-703E-3304E51952B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE266A3D-F324-63DA-530B-6013DBD6BFD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE266A3D-F324-63DA-530B-6013DBD6BFD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE266A3D-F324-63DA-530B-6013DBD6BFD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE266A3D-F324-63DA-530B-6013DBD6BFD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
